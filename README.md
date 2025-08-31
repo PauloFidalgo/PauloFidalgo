@@ -18,7 +18,7 @@ My academic journey started with a **Bachelor's in Economics** (finished in 2023
 
 ## 💼 Experience
 
-- **Data Analyst Intern – Revolut (2025)**  
+- **Data Scientist Intern – Revolut (2025)**  
   Building Python pipelines to fetch information and support decision-making processes.
 
 - **Researcher – INESC TEC (2024 – Present)**  
