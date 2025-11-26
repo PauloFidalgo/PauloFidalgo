@@ -18,6 +18,9 @@ My academic journey started with a **Bachelor's in Economics** (finished in 2023
 
 ## 💼 Experience
 
+- **Software Engineer Intern – Amazon (2025)**  
+  Building AI Agents to automate Ticket Resolution within Amazon Business.
+
 - **Data Scientist Intern – Revolut (2025)**  
   Building Python pipelines to fetch information and support decision-making processes.
 
